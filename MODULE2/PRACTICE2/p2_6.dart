@@ -20,7 +20,7 @@ void main() {
   person.addAll({"mail": "dipu@mail.com", "relationship": "single"});
   print("After add all: $person");
   //person.remove(key)
-  
+
   //remove
   //input keys then remove corresponding value
   person.remove("Age");
